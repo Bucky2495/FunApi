@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+ycyapi:
+  client:
+    access-key: ycy
+    secret-key: 123456
